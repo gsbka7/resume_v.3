@@ -1,19 +1,11 @@
-# resume_v.2
+# 【 Resume 】
 
-## Project setup
-```
-npm install
-```
+## 1. 介紹
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+購物車功能網站
 
-### Compiles and minifies for production
-```
-npm run build
-```
+<img width="800" height="600" src="https://github.com/gsbka7/resume_v.3/blob/main/img-readme/resume.png"/>
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 前端：
+
+・ Vue CLI
